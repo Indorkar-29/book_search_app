@@ -1,0 +1,33 @@
+
+.search{
+    text-align: center;
+}
+input.input {
+    width: 700px;
+    margin-top: 20px;
+}
+.data {
+    margin: 10px 420px;
+}
+img.book {
+    padding: 3px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    float: left;
+}
+.link:hover{
+    transform: scale(1.1);
+}
+.middle{
+    position: absolute;
+    text-align: center;
+    max-width: 129px;
+    opacity: 0;
+}
+.middle:hover {
+    opacity: 1;
+}
